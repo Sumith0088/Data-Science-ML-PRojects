@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Data-Science-ML-PRojects.iml" filepath="$PROJECT_DIR$/.idea/Data-Science-ML-PRojects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Webscrapping Covid 19 data.iml" filepath="$PROJECT_DIR$/Webscrapping Covid 19 data.iml" />
     </modules>
   </component>
 </project>
